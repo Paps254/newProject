@@ -1,5 +1,5 @@
 
-ul {
+ul >.nav >.lastNav {
     list-style: none;
     display: inline-block;
 }
@@ -10,10 +10,6 @@ a {
     background-color: orange;
     background-size: cover;
     text-decoration-color: white;
-}
-.collapse {
-    text-align: right;
-    
 }
 .form-inline {
   text-align: right;
