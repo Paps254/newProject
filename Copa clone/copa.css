@@ -1,0 +1,26 @@
+
+ul {
+    list-style: none;
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+}
+.firstHeader {
+    background-color: orange;
+    background-size: cover;
+    text-decoration-color: white;
+}
+.collapse {
+    text-align: right;
+    
+}
+.form-inline {
+  text-align: right;
+}
+button {
+    background-color: orange;
+}
+.lastNav >li:hover {
+display: none;
+}
