@@ -53,4 +53,27 @@ body {
     background:grey;
     color: white; 
   }
-  
+  .btn {
+    margin-bottom: 20px;
+    background-color: rgb(255, 145, 0);
+    text-align: center;
+  }
+ /* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: orange;
+}
+
+/* mouse over link */
+a:hover {
+  color: orange;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
